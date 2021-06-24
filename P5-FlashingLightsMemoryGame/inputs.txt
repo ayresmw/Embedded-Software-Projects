@@ -1,0 +1,11 @@
+Difficulty Selection
+A = easy mode; 4 flashes
+B = normal mode; 8 flashes
+C = hard mode; 12 flashes
+D = very hard mode; 16 flashes
+
+LED Selection
+1 = Green LED
+2 = Red LED
+3 = Blue LED
+A = Yellow LEd

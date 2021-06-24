@@ -1,0 +1,2 @@
+asteriks = change between am/pm and military
+pound/hashtag = Go into edit time and date mode

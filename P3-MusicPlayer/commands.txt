@@ -1,0 +1,4 @@
+* to play playlist or resume song
+# to pause
+A for song 1
+B for song 2
